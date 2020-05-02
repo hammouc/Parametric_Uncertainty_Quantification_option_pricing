@@ -5,8 +5,8 @@ This repository includes Matlab codes/routines that were used in my Bachelor the
 
 The repository includes:
 
-1- Folder “Matlab files for high dimensional case” includes all related code to one dimensional UQ methods.
+1- Folder “Matlab files for one dimensional case” includes all related code to one dimensional UQ methods.
 
-2- Folder “Matlab files for one dimesion case” includes all related code to to high dimensional UQ methods.
+2- Folder “Matlab files for high dimesional case” includes all related code to to high dimensional UQ methods.
 
 3- Folder “Produced_results” includes all obtained results in my Bachelor thesis.
